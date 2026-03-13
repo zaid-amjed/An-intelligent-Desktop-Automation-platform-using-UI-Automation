@@ -1,0 +1,10 @@
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.csproj.AssemblyReference.cache
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject_MarkupCompile.cache
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.g.resources
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.AssemblyInfoInputs.cache
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.AssemblyInfo.cs
+C:\Users\Zaid Amjed\source\repos\AutoDataEntryProject\AutoDataEntryProject\obj\Debug\net6.0-windows\AutoDataEntryProject.csproj.CoreCompileInputs.cache
